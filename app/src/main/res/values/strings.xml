@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Latihan1</string>
+    <string name="login">LOGIN</string>
+    <string name="Email">EMAIL</string>
+    <string name="pass">PASSWORD</string>
+    <string name="reg">REGISTER</string>
+</resources>
